@@ -1,0 +1,1 @@
+[{'titulo': 'Guernica', 'data_criacao': '1937-05-01', 'tema': 'Guerra', 'estilo': 'Cubismo', 'descricao': 'Obra-prima do Cubismo', 'tecnica': 'Óleo sobre tela', 'autor': 'Pablo Picasso', 'localizacao': 'Sala 1', 'documentos': [{'tipo': 'Carta', 'conteudo': 'Carta de Picasso sobre a obra'}], 'pessoas_retratadas': [{'nome': 'Francisco Franco', 'biografia': 'Ditador espanhol'}]}]
